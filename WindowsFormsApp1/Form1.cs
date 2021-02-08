@@ -20,6 +20,11 @@ namespace WindowsFormsApp1
         {
             int i = 1;
             int b = 9 / i;
+
+            for (int j = 0; j<100; j++)
+            {
+                i++;
+            }
         }
 
     }
