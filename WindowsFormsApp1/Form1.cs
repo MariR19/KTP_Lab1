@@ -24,7 +24,9 @@ namespace WindowsFormsApp1
             for (int j = 0; j<100; j++)
             {
                 i++;
+                b *= b;
             }
+
         }
 
     }
