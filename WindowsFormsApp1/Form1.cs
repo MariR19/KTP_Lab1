@@ -27,7 +27,7 @@ namespace WindowsFormsApp1
                 b *= b;
             }
 
-            
+            // Master
         }
 
     }
